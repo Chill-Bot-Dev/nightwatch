@@ -21,7 +21,7 @@
     "web:lint": "vue-cli-service lint",
     "web:prod": "vue-cli-service build src/web/main.js",
     "web:start": "yarn web:dev",
-    "start": "npm start --name bot npm -- run bot:dev && npm start --name api npm -- run api:dev && yarn web:dev"
+    "start": "node ."
   },
   "main": "index.js",
   "dependencies": {
