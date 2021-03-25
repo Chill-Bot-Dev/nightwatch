@@ -4,10 +4,10 @@
     "secret": "ToxicIsInsideMe-Baby-2021"
   },
   "bot": {
-    "token": "",
-    "botName": "Test Bot",
-    "prefix": "n.",
-    "ownerId": "",
+    "token": "ODI0NjExMTQxNzUyOTc5NDg2.YFx4-A.TXDW7RuqAd1HruYLx0jE-IUytjs",
+    "botName": "NightWatch",
+    "prefix": "nw.",
+    "ownerId": "510065483693817867",
     "autoReconnect": true,
     "autoDeleteMessages": {
       "enabled": true,
@@ -17,16 +17,17 @@
       "url": "https://twitch.tv/ihaxjoker",
       "cycleIntervalMinutes": 60,
       "options": [
-        "n. help"
+        "nw. help",
+        "Moderating Guilds"
       ]
     },
-    "clientId": "",
-    "clientSecret": ""
+    "clientId": "824611141752979486",
+    "clientSecret": "n_vZVKUp33CRMmYKMimisF9mQl-IPCCi"
   },
   "optional": {
     "premium": {
-      "primaryGuildId": "",
-      "premiumPatreonRoleId": "",
+      "primaryGuildId": "823030699371528252",
+      "premiumPatreonRoleId": "824399315681148978",
       "premiumPluginRepo": ""
     },
     "dataDogApiKey": "",
