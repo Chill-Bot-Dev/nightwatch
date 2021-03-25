@@ -1,1 +1,1 @@
-worker: npm run bot:start
+worker: npm run bot:prod
