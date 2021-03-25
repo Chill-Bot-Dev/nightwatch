@@ -4,7 +4,6 @@
     "secret": "ToxicIsInsideMe-Baby-2021"
   },
   "bot": {
-    "token": process.env.TOKEN,
     "botName": "NightWatch",
     "prefix": "nw.",
     "ownerId": "510065483693817867",
